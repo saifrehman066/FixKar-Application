@@ -1,0 +1,7 @@
+{
+  "name": "FixKarSE",
+  "description": "",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
