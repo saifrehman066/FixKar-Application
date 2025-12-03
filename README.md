@@ -1,12 +1,10 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Description
 
-# Run and deploy your AI Studio app
+The idea for FixKar came from frustrations of daily hinderances like potholes, garbage dumps, etc. We set off on a venture to create a social media inspired application where users can log in and report issues they face in their community and have those issues get funded and resolved.
 
-This contains everything you need to run your app locally.
+# Run and deploy FixKar
 
-View your app in AI Studio: https://ai.studio/apps/drive/1OMUovBAcGCxuQliR3npYgnz6hMZthQbL
+View FixKar in AI Studio: https://ai.studio/apps/drive/1OMUovBAcGCxuQliR3npYgnz6hMZthQbL
 
 ## Run Locally
 
